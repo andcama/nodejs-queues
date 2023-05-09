@@ -14,6 +14,6 @@ Queue app with socket.io with broadcast function built with NodeJS.
 
 ## Screenshots
 
-![SocketApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot2.png "Image 1 ")
-![SocketApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot3.png "Image 2")
-![SocketApp](https://github.com/andcama/WeatherCLI/blob/master/assets/Screenshot4.png "Image 3")
+![SocketApp](https://github.com/andcama/nodejs-queues/blob/master/assets/screen7.png "Image 1 ")
+![SocketApp](https://github.com/andcama/nodejs-queues/blob/master/assets/screen8.png "Image 2")
+![SocketApp](https://github.com/andcama/nodejs-queues/blob/master/assets/screen9.png "Image 3")
