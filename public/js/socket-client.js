@@ -8,7 +8,8 @@ const txtMensaje = document.querySelector('#txtMensaje');
 const btnEnviar  = document.querySelector('#btnEnviar');
 
 
-const socket = io();
+const socket = io('/');
+
 
 
 

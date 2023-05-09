@@ -3,7 +3,7 @@ const lblNuevoTicket = document.querySelector('#lblNuevoTicket');
 const btnCrear = document.querySelector('button');
 
 
-const socket = io();
+const socket = io('/');
 
 
 socket.on('connect', () => {

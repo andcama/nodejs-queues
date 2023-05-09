@@ -8,8 +8,8 @@ const lblEscritorio3 = document.querySelector('#lblEscritorio3');
 const lblTicket4 = document.querySelector('#lblTicket4');
 const lblEscritorio4 = document.querySelector('#lblEscritorio4');
 
+const socket = io('/');
 
-const socket = io();
 
 socket.on('estado-actual', ( payload ) => {
 

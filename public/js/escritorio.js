@@ -18,8 +18,8 @@ lblEscritorio.innerText = escritorio;
 
 divAlerta.style.display = 'none';
 
+const socket = io('/');
 
-const socket = io();
 
 
 socket.on('connect', () => {
